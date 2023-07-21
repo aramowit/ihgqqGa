@@ -1,0 +1,12 @@
+{
+    "Tisaa": {
+        "code": "200",
+        "Success": true,
+        "GisBody": {
+            "where": "",
+            "settingSome": "pay/paysubmit",
+            "type":"game",
+            "json":"data"
+        }
+    }
+}
